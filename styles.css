@@ -1,0 +1,113 @@
+/* NavBar Styles */
+
+.navbar-nav > li{
+ padding-left: 70%;
+ font-size: 1rem;
+ padding-left: 10px;
+ padding-right: 10px;
+ 
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-weight: bold;
+    font-size: 2rem;
+    padding-right: 65%;
+    margin-left: 2.3%;
+}
+.nav-item :hover {
+    background-color: #FEA116;
+    
+    
+}
+
+/* Hero section */
+
+.pizza{
+    padding-top: 15%;
+    padding-left: 24%;
+    padding-bottom: 20%;
+margin: 10 15 10 20;
+}
+.HeroSection{
+   
+    padding-left: 1.2%;
+}
+.HeroSectionHeading{
+margin-left: 2%;
+margin-top: 10%;
+font-family: "ubuntu";
+font-weight: bold;
+font-size: 5rem;
+}
+.HeroSectionParagraph{
+    margin-left: 2%;
+    font-family: "ubuntu";
+    font-weight: 100;
+    font-size: 2rem;
+}
+
+.btn1{
+    width: 40%;
+    margin-top: 10%;
+    margin-left: 2%;
+    font-family: "ubuntu";
+}
+
+.container-fluid{
+    background-color: #FEA116;
+    padding-bottom: 1%;
+}
+
+/* MenuSection */
+
+.MenuSection{
+    padding-top: 5%;
+    background-color: #212529;
+}
+
+.card-body{
+    background-color: #212529;
+    
+}
+.card-text{
+   color: #fff;
+}
+.btn2{
+    background-color: #FEA116;
+    color: #212529;
+    text-align: center;
+    margin-left: 25%;
+}
+.MenuSection{
+    padding-bottom: 5%;
+    padding-left: 8%;
+}
+.card-title{
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: ubuntu;
+    color: #FEA116;
+}
+
+/* contact us section */
+.footer{
+    background-color: #FEA116;
+}
+.FooterH1{
+    padding-top: 1%;
+    font-family: Ubuntu;
+    font-weight: bold;
+    text-align: center;
+}
+.FooterH2{
+    margin-top: 2%;
+    text-align: center;
+    font-family: Ubuntu;
+    font-weight: lighter;
+}
+.FooterH3{
+    margin-top: 2%;
+    text-align: center;
+    font-family: Ubuntu;
+    font-weight: lighter;
+}
